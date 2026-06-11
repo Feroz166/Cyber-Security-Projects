@@ -2,7 +2,7 @@
 
 Author ~ Mohammed Feroz 
 
-AI Powered Phishing Detection System
+Projects : AI Powered Phishing Detection System
 
 The AI Powered Phishing Detection System is a cybersecurity project designed to identify and prevent phishing attacks using Artificial Intelligence and Machine Learning techniques. The system analyzes URLs, website features, email content, and other security indicators to determine whether a website or message is legitimate or potentially malicious.
 
